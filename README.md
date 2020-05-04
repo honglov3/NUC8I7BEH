@@ -4,6 +4,7 @@
 
 * can dual-boot with **Windows 10** on another seperate m2.ssd 
 * remember pull out **Windows 10** ssd/harddisk before start to install Hackintosh on another ssd
+* place **Windows Boot Manager** under Hackintosh disk on the BIOS UEFI startup
 
 won't works
  * Intel Wifi
