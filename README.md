@@ -1,6 +1,9 @@
-# NUC8I7BEH Hackintosh Opencore 0.5.7
+# NUC8I7BEH Hackintosh Opencore 0.5.7 UEFI
 
 ![About_Mac](https://user-images.githubusercontent.com/31032428/80986699-84d9e380-8e63-11ea-934c-6ad4d18866d2.png)
+
+* can dual-boot with **Windows 10** on another seperate m2.ssd 
+* remember pull out **Windows 10** ssd/harddisk before start to install Hackintosh on another ssd
 
 won't works
  * Intel Wifi
@@ -24,6 +27,7 @@ bootloader
   * Opencore 0.5.7
  
 how to install
+ * DIsable **Vt-d** on the BIOS
   * Disable **Legacy Boot** on the BIOS
   * Create bootable USB with macOS Catalina (Windows or Mac)
   * Copy OC/0.5.7/EFI to your BOOT folder
