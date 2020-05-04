@@ -27,11 +27,14 @@ credits
 **Youtube Video**
   * https://www.youtube.com/watch?v=p3epD8qqVeA&t=1367s
   * https://www.youtube.com/watch?v=6KGuINOyHh0&t=1137s
+  
 **Article**
   * https://dortania.github.io/OpenCore-Desktop-Guide/
   * https://github.com/csrutil/NUC8I5BEH
   * https://www.jianshu.com/p/b298da6afef3
+  
 **IntelBluetoothFirmware**
   * https://github.com/zxystd/IntelBluetoothFirmware/releases/
+  
 **AppleALC_CodecGuide**
   * https://github.com/acidanthera/AppleALC/wiki/Supported-codecs
