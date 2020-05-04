@@ -24,6 +24,7 @@ tips
   * can use Clover Configurations application to mount the harddisk
   
 credits
+
 **Youtube Video**
   * https://www.youtube.com/watch?v=p3epD8qqVeA&t=1367s
   * https://www.youtube.com/watch?v=6KGuINOyHh0&t=1137s
