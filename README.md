@@ -2,6 +2,16 @@
 
 ![About_Mac](https://user-images.githubusercontent.com/31032428/80986699-84d9e380-8e63-11ea-934c-6ad4d18866d2.png)
 
+won't works
+ * Intel Wifi
+ 
+works but ...
+ * line-in mic (sound bit loose)
+ 
+not yet test
+ * thunderbolt 3 port
+ * micro-sd slot
+ 
 specs
   * OS: macOS Catalina 10.15.4/Macmini8,1
   * CPU: Intel® Core™ i7-8559U Processor (8M Cache, up to 4.50 GHz)
