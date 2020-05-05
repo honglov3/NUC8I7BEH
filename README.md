@@ -47,7 +47,9 @@ credits
 **Article**
   * https://dortania.github.io/OpenCore-Desktop-Guide/
   * https://github.com/csrutil/NUC8I5BEH
+
   * https://www.jianshu.com/p/b298da6afef3
+  * https://www.jianshu.com/p/78510cfa4a64
   
 **IntelBluetoothFirmware**
   * https://github.com/zxystd/IntelBluetoothFirmware/releases/
