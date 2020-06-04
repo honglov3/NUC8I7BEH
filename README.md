@@ -23,7 +23,7 @@ Intel Wifi kext, Max Download Speed 30mbps
   * Step 1: sudo mount -uw / && killall Finder
   * Step 2: fn=".`date +%s`" && sudo mv /System/Library/CoreServices/Menu\ Extras/ExpressCard.menu /System/Library/CoreServices/Menu\ Extras/ExpressCard.menu$fn && sudo touch /System/Library/CoreServices/Menu\ Extras/ExpressCard.menu
 
-Done, now reboot your system, and the ExpressCard icon will disappear
+Done, now reboot your system, and the ExpressCard icon will be disappear
 
 works but ...
  * line-in mic (sound bit loose)
