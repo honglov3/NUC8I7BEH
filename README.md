@@ -1,4 +1,4 @@
-# NUC8I7BEH Hackintosh Opencore 0.5.9 UEFI
+# NUC8I7BEH Hackintosh OpenCore 0.5.9 UEFI
 
 ![about os](https://user-images.githubusercontent.com/31032428/83754831-3193c480-a69f-11ea-9c4b-0c18c1ac71a0.png)
 
@@ -28,18 +28,18 @@ specs
   * MONITOR: LG29WK600
   
 bootloader
-  * Opencore 0.5.9
-  * Opencore 0.5.7
+  * OpenCore 0.5.9
+  * OpenCore 0.5.7
  
 how to install
   * Disable **Legacy Boot** on the BIOS
   * Create bootable USB with macOS Catalina (Windows or Mac)
-  * Copy OC/0.5.7/EFI to your BOOT folder
+  * Copy OC/0.5.9/EFI to your BOOT folder
   * Change your mac serial number in OC/**config.plist**
   
 tips
-  * use ProperTree and GenSMBIOS files to change your mac serial number
-  * can use Clover Configurations application to mount the harddisk
+  * use ProperTree and GenSMBIOS files to change your mac serial number and etc.
+  * can use Clover Configurations or MountEFI application to mount the harddisk
   
 credits
 
