@@ -6,8 +6,10 @@
 * remember pull out **Windows 10** ssd/harddisk before start to install Hackintosh on another ssd
 * place **Windows Boot Manager** under Hackintosh disk on the BIOS UEFI startup
 
-won't works
- * Intel Wifi
+* Intel Wifi kexy, Max Download Speed 30mbps
+ - credit to: PC Video / Games Channel
+ - link to this video
+ https://www.youtube.com/watch?v=kHfUjJ2RkyU
  
 works but ...
  * line-in mic (sound bit loose)
