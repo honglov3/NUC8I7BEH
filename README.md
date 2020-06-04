@@ -8,10 +8,23 @@
 * place **Windows Boot Manager** under Hackintosh disk on the BIOS UEFI startup
 
 Intel Wifi kext, Max Download Speed 30mbps
- - credit to: PC Video / Games Channel
+ - credit to: PC Video / Games Channel on YouTube
  - link to this video
  https://www.youtube.com/watch?v=kHfUjJ2RkyU
  
+ Remove ExpressCard icon
+  - credit to: weachy on JianShu
+  - link to this tutorial (in Chinese Simplified)
+  https://www.jianshu.com/p/b298da6afef3
+  
+ Steps: run this command on terminal
+  * Step 1: sudo mount -uw / && killall Finder
+  * Step 2: fn=".`date +%s`" && sudo mv /System/Library/CoreServices/Menu\ Extras/ExpressCard.menu /System/Library/CoreServices/Menu\ Extras/ExpressCard.menu$fn && sudo touch /System/Library/CoreServices/Menu\ Extras/ExpressCard.menu
+
+Done, now reboot your system, and the ExpressCard icon will disappear
+ ![iShot2020-06-04PM11 04 15](https://user-images.githubusercontent.com/31032428/83773936-bb4f8c00-a6b7-11ea-9861-f653640f3cc7.png)
+
+
 works but ...
  * line-in mic (sound bit loose)
  
