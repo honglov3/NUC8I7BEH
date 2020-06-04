@@ -32,7 +32,6 @@ bootloader
   * Opencore 0.5.7
  
 how to install
- * DIsable **Vt-d** on the BIOS
   * Disable **Legacy Boot** on the BIOS
   * Create bootable USB with macOS Catalina (Windows or Mac)
   * Copy OC/0.5.7/EFI to your BOOT folder
