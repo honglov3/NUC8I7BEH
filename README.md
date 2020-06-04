@@ -1,7 +1,8 @@
-# NUC8I7BEH Hackintosh Opencore 0.5.7 UEFI
+# NUC8I7BEH Hackintosh Opencore 0.5.9 UEFI
 
 ![about os](https://user-images.githubusercontent.com/31032428/83754831-3193c480-a69f-11ea-9c4b-0c18c1ac71a0.png)
 
+* boot with OpenCore GUI
 * can dual-boot with **Windows 10** on another seperate m2.ssd 
 * remember pull out **Windows 10** ssd/harddisk before start to install Hackintosh on another ssd
 * place **Windows Boot Manager** under Hackintosh disk on the BIOS UEFI startup
@@ -19,7 +20,7 @@ not yet test
  * micro-sd slot
  
 specs
-  * OS: macOS Catalina 10.15.4/Macmini8,1
+  * OS: macOS Catalina 10.15.5/Macmini8,1
   * CPU: Intel® Core™ i7-8559U Processor (8M Cache, up to 4.50 GHz)
   * SSD: 960GB KINGSTON A400 2.5 SATA
   * RAM: 16GB X 2 HYPERX DDR4 2400
@@ -27,6 +28,7 @@ specs
   * MONITOR: LG29WK600
   
 bootloader
+  * Opencore 0.5.9
   * Opencore 0.5.7
  
 how to install
