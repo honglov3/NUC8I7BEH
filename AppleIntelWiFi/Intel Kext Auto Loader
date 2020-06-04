@@ -1,0 +1,7 @@
+cd desktop 
+
+sudo chmod -R 755 *.kext
+
+sudo chown -R root:wheel *.kext
+
+sudo kextload AppleIntelWiFi.kext
