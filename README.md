@@ -31,6 +31,7 @@ works but ...
 not yet test
  * thunderbolt 3 port
  * micro-sd slot
+ * airdrop and sidecar
  
 specs
   * OS: macOS Catalina 10.15.5/Macmini8,1
