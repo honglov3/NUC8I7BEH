@@ -1,12 +1,17 @@
-# NUC8I7BEH Hackintosh OpenCore 0.5.9 UEFI
+# NUC8I7BEH Hackintosh OpenCore 0.6.3 UEFI
 
-![about os](https://user-images.githubusercontent.com/31032428/83754831-3193c480-a69f-11ea-9c4b-0c18c1ac71a0.png)
 ![](img.png)
+
 * boot with OpenCore GUI
 * can dual-boot with **Windows 10** on another seperate m2.ssd 
 * remember pull out **Windows 10** ssd/harddisk before start to install Hackintosh on another ssd
 * place **Windows Boot Manager** under Hackintosh disk on the BIOS UEFI startup
 
+> On OC 0.6.3
+Intel Wifi kext, Max Download Speed 30mbps
+- Inject Intel wifi kext on 0.6.3 Kext folder
+
+> On old OC 0.5.7 / 0.5.9 
 Intel Wifi kext, Max Download Speed 30mbps
  - credit to: PC Video / Games Channel on YouTube
  - link to this video
@@ -42,6 +47,7 @@ specs
   * MONITOR: LG29WK600
   
 bootloader
+  * OpenCore 0.6.3
   * OpenCore 0.5.9
   * OpenCore 0.5.7
  
